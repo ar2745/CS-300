@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1659911402 source:c:\users\ar274\desktop\snhu\cs-300\module seven\project two\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"CSVparser.hpp"
+	"source.cpp"
+
+1659911544 c:\users\ar274\desktop\snhu\cs-300\module seven\project two\source.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"CSVparser.hpp"
+
+1595350730 c:\users\ar274\desktop\snhu\cs-300\module seven\project two\csvparser.hpp
+	<stdexcept>
+	<string>
+	<vector>
+	<list>
+	<sstream>
+
+1660225125 source:c:\users\ar274\desktop\project two\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"CSVparser.hpp"
+	"source.cpp"
+
+1595350730 c:\users\ar274\desktop\project two\csvparser.hpp
+	<stdexcept>
+	<string>
+	<vector>
+	<list>
+	<sstream>
+
+1660225164 c:\users\ar274\desktop\project two\source.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"CSVparser.hpp"
+
