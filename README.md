@@ -1,2 +1,4 @@
 # CS-300
-This repository is for my CS 300 course at Southern New Hampshire University
+This repository is for ABC University Course Planner Tool
+
+The project goal was trying to figure out which algorithm that is best for ABC University Course Planner Tool which required pseudocode from different data structures which held all of this data. There also was a need to have a runtime analysis to see which option was more beneficial to the application needs. The data structures were vectors, hash tables, and binary search trees. The code will load a file, parse the file, insert course data into the data structure and print the course data. I approached this problem by seeing which runtime would be easier and at first I thought a hash table would work however I then turned to look at how a binary search tree could help tremendously. Any roadblocks I may have came across were usually helped with the resources from previous assignments and seeing how I could utilize the code. My work around this project has allowed me to expand my coding skills and I think I can utilize this in future projects.
